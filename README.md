@@ -6,6 +6,9 @@
 ## New York Times article page clone
 [Live Demo Link](https://patriciachrysy.github.io/New-York-Times-Article/)
 
+## Mint signup page clone
+[Live Demo Link](https://luckyaremu.github.io/html-form/)
+
 ## Apple product page clone
 [Live Demo Link](https://patriciachrysy.github.io/apple-product-page-clone/)
 
