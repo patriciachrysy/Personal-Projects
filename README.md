@@ -12,7 +12,11 @@
 ## Apple product page clone
 [Live Demo Link](https://patriciachrysy.github.io/apple-product-page-clone/)
 
+## Smashing Magazine page heatmap
+[Live Demo Link](https://patriciachrysy.github.io/DESIGN-TEARDOWN/)
 
+## TNW responsive page clone
+[Live Demo Link](https://patriciachrysy.github.io/Build-responsive-design/)
 # Let's socialize
 
 👤 Manezeu Patricia Chrystelle
