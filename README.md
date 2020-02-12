@@ -17,6 +17,10 @@
 
 ## TNW responsive page clone
 [Live Demo Link](https://patriciachrysy.github.io/Build-responsive-design/)
+
+## Newsweek responsive page clone (with bootstrap)
+[Live_Demo_Link](https://patriciachrysy.github.io/using-bootstrap/)
+
 # Let's socialize
 
 👤 Manezeu Patricia Chrystelle
