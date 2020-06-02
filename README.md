@@ -24,6 +24,24 @@
 ## LunchBox responsive 3 pages website
 [Live Demo Link](https://patriciachrysy.github.io/html-capstone-project/)
 
+## Ruby bubble sort algorithm in three versions
+[Live Demo Link](https://github.com/patriciachrysy/ruby-bubble-sort/)
+
+## Recreating ruby enumerables module
+[Live Demo Link](https://github.com/patriciachrysy/ruby-enumerables-module)
+
+## Ruby code linter written in ruby
+[Live Demo Link](https://github.com/patriciachrysy/ruby-capstone-project/)
+
+## Some sql requests
+[Live Demo Link](https://github.com/patriciachrysy/sql-project)
+
+## Some sql requests
+[Live Demo Link](https://github.com/patriciachrysy/sql-project)
+
+## A blog app
+[Live Demo Link](https://github.com/patriciachrysy/blog-app)
+
 # Let's socialize
 
 👤 Manezeu Patricia Chrystelle
